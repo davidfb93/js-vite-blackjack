@@ -8,5 +8,5 @@
 4. Abrir el proyecto en el ```localhost```.
 
 ## Producción
-1. Ejecutar ```nom run build```.
+1. Ejecutar ```npm run build```.
 2. Tomar la carpeta ```dist``` y desplegarla en el hosting de su elección.
